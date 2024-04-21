@@ -11,3 +11,6 @@ public class HelloWorld : MonoBehaviour
         GUI.Label(new Rect(Screen.width / 2, Screen.height / 2, 200, 200), texto);
     }
 }
+
+// Quando Aprender o que cada linha faz não esqueça de comentar! 
+// As 3 primeiras linhas eu imagino que sejam o que o programa consegue acessar.
